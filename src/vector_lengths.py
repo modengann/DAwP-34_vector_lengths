@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import numpy as np
-#import scipy.linalg
 
 def vector_lengths(a):
     return np.array([])
